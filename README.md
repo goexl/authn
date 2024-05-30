@@ -1,4 +1,4 @@
-# 项目
+# Authn
 [![编译状态](https://github.ruijc.com:20443/api/badges/goexl/gox/status.svg)](https://github.ruijc.com:20443/pangum/pangu)
 [![Golang质量](https://goreportcard.com/badge/github.com/goexl/gox)](https://goreportcard.com/report/github.com/pangum/pangu)
 ![版本](https://img.shields.io/github/go-mod/go-version/goexl/gox)
@@ -9,7 +9,10 @@
 ![最佳语言](https://img.shields.io/github/languages/top/goexl/gox)
 ![星星个数](https://img.shields.io/github/stars/goexl/gox?style=social)
 
-项目介绍
+用户认证，提供基础的认证基础结构，供其它认证库使用，比如
+- [Session](github.com/pangum/session)
+- [JWT](github.com/pangum/jwt)
+- 其它三方库
 
 ## 捐助
 
