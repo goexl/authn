@@ -1,6 +1,5 @@
 module github.com/goexl/authn
 
-go 1.22
-toolchain go1.23.1
+go 1.27
 
-require github.com/goexl/gox v1.9.2
+require github.com/goexl/gox v1.9.3
